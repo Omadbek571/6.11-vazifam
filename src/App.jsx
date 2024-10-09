@@ -66,7 +66,7 @@ function App() {
               </div>
             </div>
           )) : (
-            <p className='flex mx-auto justify-center mb-4'>No comments found.</p>
+            <p className='flex mx-auto justify-center mb-4'>Topilmadi...</p>
           )
         }
       </div>
